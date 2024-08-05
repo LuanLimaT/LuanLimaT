@@ -15,4 +15,3 @@
    <img align="center" alt="nodejs" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   
 </div><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanLimaT&layout=compact&langs_count=16&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
