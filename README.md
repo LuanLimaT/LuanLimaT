@@ -13,4 +13,6 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    <img align="center" alt="nodejs" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  
 </div><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanLimaT&layout=compact&langs_count=16&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
